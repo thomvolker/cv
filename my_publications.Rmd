@@ -1,0 +1,14 @@
+---
+csl: apa-6th-edition.csl
+bibliography: references_assignment_bayes.bib
+nocite: '@*'
+output: pdf_document
+---
+
+\pagenumbering{gobble}
+
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\noindent
+
+<div id="refs"></div>
