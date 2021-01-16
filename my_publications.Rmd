@@ -1,6 +1,6 @@
 ---
 csl: apa-6th-edition.csl
-bibliography: references_assignment_bayes.bib
+bibliography: papers_thom.bib
 nocite: '@*'
 output: pdf_document
 ---
